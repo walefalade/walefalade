@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @walefalade
-- 👀 I’m interested in remote internship opportunities in Data Analytics
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on solving problems using python
+- 👀 I’m interested in opportunities in Data Analytics
+- 🌱 I’m currently learning R
+- 💞️ I’m looking to collaborate on solving problems using python, excel, SQL. Power BI and Tableau
 - 📫 How to reach me, my email address is walefalade336@gmail.com
 
 <!---
